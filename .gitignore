@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Config file
+config.py
+
 # Data CSV file
 movies_metadata.csv
 ratings.csv
