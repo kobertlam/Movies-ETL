@@ -7,7 +7,7 @@ __pycache__/
 config.py
 
 # Data CSV file
-movies_metadata.csv
+Data/
 ratings.csv
 credits.csv
 keywords.csv
